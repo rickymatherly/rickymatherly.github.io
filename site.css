@@ -2,6 +2,8 @@ h1{
 
 
 text-align: center;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color:darkgreen
 
 
 }
@@ -9,7 +11,7 @@ text-align: center;
 h2{
 
 text-align: center;
-
+color: green;
 
 }
 
@@ -25,6 +27,50 @@ text-indent: 48%;
 text-align: start;
 text-indent:49%
 
+
+
+}
+
+#content{
+
+text-align: center;
+
+}
+
+#Chapter_2{
+
+    text-align: end;
+    font-size: 300%;
+    
+}
+
+#Contents_Return{
+
+
+    text-align:start;
+    font-size:300%
+    
+
+}
+
+p{
+
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+
+a{
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+#index_start{
+
+color:blue;
 
 
 }
